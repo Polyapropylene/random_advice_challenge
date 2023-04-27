@@ -1,0 +1,13 @@
+body {
+  background-color: #202632;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  background-color: #313a49;
+  width: 540px;
+}
+
+/*# sourceMappingURL=styles.css.map */
